@@ -95,10 +95,9 @@ Each report drills into a single S&P 500 sector, explaining the macro backdrop, 
 
 ## Get in Touch
 
-Interested in producing disciplined, sector-level commentaries?  
-We’re happy to share templates, workflows, or feedback.
+If you’re interested in writing sector-based commentaries, reach out for templates or feedback. 
 
-- stiku6@gatech.edu  
+- stiku6@gatech.edu ( Sarvesh Tiku, Head of Market Insights )
 - tradingclubgt@gmail.com  
 
 ---
