@@ -65,7 +65,7 @@ Each report drills into a single S&P 500 sector, explaining the macro backdrop, 
     </tr>
     <tr>
       <td style="text-align:center;">17 Feb 2025</td>
-      <td style="text-align:center;">Consumer Staples (XLP)</td>
+      <td style="text-align:center;">Consumer Stap. (XLP)</td>
       <td style="text-align:center;">Steady Staples: Minor Dip, Defensive Edge Intact</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-17feb2025-activity-7297265057367838723-oTjj">Read</a></td>
     </tr>
