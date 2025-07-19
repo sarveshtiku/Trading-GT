@@ -1,4 +1,4 @@
-# Market Insights, Equities Sector Commentaries
+# Market Insights - Equities Sector Commentaries
 
 This repository archives a sequence of weekly equity-market commentaries produced for the Georgia Tech Trading Club in Spring 2025.  
 Each report drills into a single S&P 500 sector, explaining the macro backdrop, earnings catalysts, and thematic forces driving price action.
