@@ -40,42 +40,42 @@ Each report drills into a single S&P 500 sector, explaining the macro backdrop, 
   <tbody>
     <tr>
       <td style="text-align:center;">20 Jan 2025</td>
-      <td style="text-align:center;">Technology (XLK) – AI momentum, chip leadership, geopolitical headwinds</td>
+      <td style="text-align:center;">Technology (XLK) Leads Amid Tech's Tug-of-War: Market Gains vs. Geopolitical Strains</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-21january2025-activity-7287531806323597312-9VpT">Read</a></td>
     </tr>
     <tr>
       <td style="text-align:center;">27 Jan 2025</td>
-      <td style="text-align:center;">Utilities (XLU) – Renewable build-out, dividend strength, policy support</td>
+      <td style="text-align:center;">Utilities (XLU) Powering Ahead: Utilities Sector Rides the Renewable Wave</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-27january2025-activity-7289663013186404355-bgxJ">Read</a></td>
     </tr>
     <tr>
       <td style="text-align:center;">03 Feb 2025</td>
-      <td style="text-align:center;">Consumer Discretionary (XLY) – E-commerce vs. home improvement, auto softness</td>
+      <td style="text-align:center;">Communication Services (XLC) Consumer Discretionary Wavers: E-Commerce Shines as Home Improvement Falters</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-3february2025-activity-7292199377429749761-IJaN">Read</a></td>
     </tr>
     <tr>
-      <td style="text-align:center;">11 Feb 2025</td>
-      <td style="text-align:center;">Consumer Discretionary (XLY) – Retail and travel resilience amid inflation</td>
+      <td style="text-align:center;">09 Feb 2025</td>
+      <td style="text-align:center;">Consumer Discretionary (XLY) Discretionary Waivers: E-Commerce Shines as Home Improvement Falters</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-11february2025-activity-7295113583447687168-K7-X">Read</a></td>
     </tr>
     <tr>
       <td style="text-align:center;">17 Feb 2025</td>
-      <td style="text-align:center;">Consumer Staples (XLP) – Defensive tilt, margin pressure, company-level drivers</td>
+      <td style="text-align:center;">Consumer Staples (XLP) Steady Staples: XLP Ends the Week with a Minor Dip, Retains Defensive Edge</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-17feb2025-activity-7297265057367838723-oTjj">Read</a></td>
     </tr>
     <tr>
       <td style="text-align:center;">03 Mar 2025</td>
-      <td style="text-align:center;">Energy (XLE) – Oil majors, geopolitical price catalysts, sector rotation</td>
+      <td style="text-align:center;">Energy (XLE) Energy Sector Powers Ahead: Oil Majors Lead as XLE Gains 3% in 2025</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-3mar2025-activity-7302341095814803457-Pve3">Read</a></td>
     </tr>
     <tr>
       <td style="text-align:center;">10 Mar 2025</td>
-      <td style="text-align:center;">Financials (XLF) – Banking volatility, macro headwinds, regulatory impact</td>
+      <td style="text-align:center;">Financials (XLF) Financials Falter: XLF Slips Amid Banking Volatility and Market Uncertainty</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-10march2025-activity-7304867756418424832-p3J6">Read</a></td>
     </tr>
     <tr>
       <td style="text-align:center;">31 Mar 2025</td>
-      <td style="text-align:center;">Health Care (XLV) – Pharma strength vs. med-tech pressure, sector divergence</td>
+      <td style="text-align:center;">Health Care (XLV) Dose of Divergence: Pharma Keeps XLV Afloat While MedTech Faces Pressure</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-31march2025-activity-7312490109998645248-VBvn">Read</a></td>
     </tr>
   </tbody>
