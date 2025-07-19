@@ -59,7 +59,7 @@ Each report drills into a single S&P 500 sector, explaining the macro backdrop, 
     </tr>
     <tr>
       <td style="text-align:center;">09 Feb 2025</td>
-      <td style="text-align:center;">Consumer Discretionary (XLY)</td>
+      <td style="text-align:center;">Consumer Disc. (XLY)</td>
       <td style="text-align:center;">Discretionary Waivers: Travel and Retail Amid Inflation</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-11february2025-activity-7295113583447687168-K7-X">Read</a></td>
     </tr>
