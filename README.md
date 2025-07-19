@@ -97,9 +97,7 @@ Each report drills into a single S&P 500 sector, explaining the macro backdrop, 
 
 For up-to-date information on sector performance, ETF holdings, and daily fund movements, visit:
 
-🔗 [Sector SPDRs Official Website](https://www.sectorspdrs.com/)
-
-This resource is updated daily and reflects real-time shifts across all 11 S&P 500 sectors.
+🔗 [Sector SPDRs Official Website](https://www.sectorspdrs.com/) This resource is updated daily and reflects real-time shifts across all 11 S&P 500 sectors.
 
 ---
 
