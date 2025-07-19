@@ -87,7 +87,7 @@ Each report drills into a single S&P 500 sector, explaining the macro backdrop, 
 
 ## Tools
 
-- **`Equities-Graph.ipynb`** – Python notebook that automates ETF trend charts included in each commentary.
+- **`Equities-Graph.ipynb`** – Colab notebook that automates ETF trend charts included in each commentary.
 
 ---
 
