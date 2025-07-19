@@ -53,7 +53,7 @@ Each report drills into a single S&P 500 sector, explaining the macro backdrop, 
     </tr>
     <tr>
       <td style="text-align:center;">03 Feb 2025</td>
-      <td style="text-align:center;">Consumer Discretionary (XLY)</td>
+      <td style="text-align:center;">Consumer Disc. (XLY)</td>
       <td style="text-align:center;">E-Commerce Shines as Home Improvement Falters</td>
       <td style="text-align:center;"><a href="https://www.linkedin.com/posts/tradingclubgt_market-insights-3february2025-activity-7292199377429749761-IJaN">Read</a></td>
     </tr>
