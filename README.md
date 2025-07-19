@@ -91,6 +91,8 @@ Each report drills into a single S&P 500 sector, explaining the macro backdrop, 
 
 ---
 
+<img width="1414" height="343" alt="Screenshot 2025-07-19 at 12 34 23" src="https://github.com/user-attachments/assets/ee4739a0-5a68-455a-92ee-1ab078c4adea" />
+
 ## Get in Touch
 
 Interested in producing disciplined, sector-level commentaries?  
@@ -100,5 +102,4 @@ We’re happy to share templates, workflows, or feedback.
 - tradingclubgt@gmail.com  
 
 ---
-<img width="1414" height="343" alt="Screenshot 2025-07-19 at 12 34 23" src="https://github.com/user-attachments/assets/ee4739a0-5a68-455a-92ee-1ab078c4adea" />
 © 2025 Georgia Tech Trading Club. All rights reserved. Redistribution or commercial use without permission is prohibited.
