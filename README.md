@@ -1,5 +1,7 @@
 # Market Insights - Equities Sector Commentaries
 
+<img width="1414" height="343" alt="Screenshot 2025-07-19 at 12 34 23" src="https://github.com/user-attachments/assets/ee4739a0-5a68-455a-92ee-1ab078c4adea" />
+
 This repository archives a sequence of weekly equity-market commentaries produced for the Georgia Tech Trading Club in Spring 2025.  
 Each report drills into a single S&P 500 sector, explaining the macro backdrop, earnings catalysts, and thematic forces driving price action.
 
@@ -108,8 +110,6 @@ This resource is updated daily and reflects real-time shifts across all 11 S&P 5
 - **`Equities-Graph.ipynb`** – Colab notebook that automates ETF trend charts included in each commentary.
 
 ---
-
-<img width="1414" height="343" alt="Screenshot 2025-07-19 at 12 34 23" src="https://github.com/user-attachments/assets/ee4739a0-5a68-455a-92ee-1ab078c4adea" />
 
 ## Get in Touch
 
